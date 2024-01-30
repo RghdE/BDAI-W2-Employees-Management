@@ -1,8 +1,7 @@
-![image](https://github.com/RghdE/BDAI-W2-Employees-Management/assets/53378171/f07d3466-6c5f-47ca-b2f3-7bf33b7b261b)<a name="readme-top"></a>
 
 # Employees Management Project
-As part of the Big Data and AI Engineering Onsite Bootcamp, we are asked to deliver a solution for a company that is faced with three challenges, which needs analytical skills in delivering an optimized solution. 
 
+As part of the Big Data and AI Engineering Onsite Bootcamp, we are asked to deliver a solution for a company that is faced with three dilemmas, which needs analytical skills in delivering an optimized solution. 
 
 
 <!-- TABLE OF CONTENTS -->
@@ -30,12 +29,13 @@ This is the overview of the project's structure and files for easier navigation.
 
 ```
 ├── README.md
-├── CapstoneProject_Presentation_Desert_Ninjas.pdf
-├── Notebooks
+├── Presentation.pdf
+├── Excel
+├── Excel
 │   ├── CapstoneProject_Pre_Preprocessing_Notebook_ComanyNameEncryption.ipynb 
 |   ├── CapstoneProject_Preprocessing_Notebook_Desert_Ninjas.ipynb
 │   └── CapstoneProject_ML_Notebook_Desert_Ninjas.ipynb
-└── Datasets
+└── Dataset
     ├── Encrypted_full_dataset.csv (output of the pre-preprocessing notebook) 
     ├── Encrypted_exported_raw_data.csv (output of the pre-preprocessing notebook) 
     └── Final_extracted_dataset.csv (used for the EDA, Dashboard, and Machine Learning models)
@@ -66,12 +66,15 @@ This is the overview of the project's structure and files for easier navigation.
 
 ## Dataset Overview
 
+<img width="600" alt="Screenshot 2024-01-30 123835" src="https://github.com/RghdE/BDAI-W2-Employees-Management/assets/53378171/f987fb7b-f9f4-4eb9-bab7-cb4a68c26837">
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Visualization
 
+<img width="602" alt="Screenshot 2024-01-30 123936" src="https://github.com/RghdE/BDAI-W2-Employees-Management/assets/53378171/43a2f8df-7fd2-4bb8-9bb1-c890a19e241d">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
