@@ -1,7 +1,7 @@
-<a name="readme-top"></a>
+![image](https://github.com/RghdE/BDAI-W2-Employees-Management/assets/53378171/f07d3466-6c5f-47ca-b2f3-7bf33b7b261b)<a name="readme-top"></a>
 
 # Employees Management Project
-As part of the Big Data and AI Engineering Onsite Bootcamp, we are asked to deliver a solution for 
+As part of the Big Data and AI Engineering Onsite Bootcamp, we are asked to deliver a solution for a company that is faced with three challenges, which needs analytical skills in delivering an optimized solution. 
 
 
 
@@ -45,16 +45,21 @@ This is the overview of the project's structure and files for easier navigation.
 
 ## Business Objective
 
+- Minimize the gap between male and female hired in the company.
+- Reduce the company's annual paid salaries from $5.8 Bn to $1.17 Bn in order to reduce its expenses by 20%.
+- The company wants to offer bonuses at the end of the year to reward those segments with a budget of $50 Mn.
+
+
 
 ### Methods Used
-* Labeling and classifying the data
 * Exploratory Data Analysis
 * Data Visualization
+* Analytical tools that suppotrs problem solving 
 
 
 ### Technologies
-* Python, Jupyter
-* Pandas
+* MySQL
+* Excel
 * Power BI
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
